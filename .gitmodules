@@ -1,0 +1,6 @@
+[submodule "t1"]
+	path = t1
+	url = https://github.com/DerekMarshall855/TweetAssessment
+[submodule "t2"]
+	path = t2
+	url = https://github.com/DerekMarshall855/StockAssessment
